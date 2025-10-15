@@ -121,10 +121,10 @@ Churn across PowerCo’s SME client base stands at **9.7% (~1,419 out of 14,600)
   - Converted Boolean and coded values (e.g., t/f → Yes/No).  
   - Aggregated monthly pricing and consumption to client level.  
 
-> [View Data Dictionary (PDF)](https://github.com/rotimi2020/Data-Analyst-Portfolio/blob/main/powerco_churn_analysis/docs/data_description.pdf)
+> [View Data Dictionary (PDF)](https://github.com/rotimi2020/PowerCo-Churn-Analysis-Excel/blob/main/docs/Data%20Description.pdf)
 
   
-> View the full [Excel Workbook (CSV)](https://github.com/rotimi2020/Data-Analyst-Portfolio/blob/main/powerco_churn_analysis/reports/powerco_report.pdf) .
+> View the full [Excel File (CSV)](https://github.com/rotimi2020/PowerCo-Churn-Analysis-Excel/tree/main/data/raw) .
 
 
 ---
@@ -147,16 +147,11 @@ Each section demonstrates practical business analytics — from data preparation
 
 | Churn Dashboard | Pivot Table | Summary Insights |
 |------------------|-------------|------------------|
-| ![Churn Dashboard](https://github.com/rotimi2020/Data-Analyst-Portfolio/blob/main/powerco_churn_analysis/report_screenshots/powerco_dashboard.png) | ![Pivot Table](https://github.com/rotimi2020/Data-Analyst-Portfolio/blob/main/powerco_churn_analysis/report_screenshots/powerco_pivot.png) | ![Summary Insights](https://github.com/rotimi2020/Data-Analyst-Portfolio/blob/main/powerco_churn_analysis/report_screenshots/powerco_summary.png) |
+| ![Churn Dashboard](https://github.com/rotimi2020/PowerCo-Churn-Analysis-Excel/blob/main/screenshots/dashboard.PNG) | ![Pivot Table](https://github.com/rotimi2020/PowerCo-Churn-Analysis-Excel/blob/main/screenshots/pivot%20table.PNG) | ![Summary Insights](https://github.com/rotimi2020/PowerCo-Churn-Analysis-Excel/blob/main/screenshots/summary%20statistics.PNG) |
 
 ---
 
-> View the full [Excel Screenshots (PNG)](https://github.com/rotimi2020/Data-Analyst-Portfolio/blob/main/powerco_churn_analysis/reports/powerco_report.pdf) .
-
-
-
-
-
+> View [Excel Full Project (Xlsm)](https://docs.google.com/spreadsheets/d/1Ba-BHU8YsbfXJwedYLtdmyR9XpQKVoRf/edit?usp=drive_web&ouid=107391022740624738523&rtpof=true).
 ---
 
 ## 📊 Excel Workbook Structure  
@@ -438,3 +433,4 @@ By bridging operational data with strategic understanding, it shows how **Excel 
 What began as a churn report became a practical playbook — proof that clarity, not code, creates real business impact.
 
 ---
+
