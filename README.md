@@ -25,23 +25,14 @@ The structure provides a smooth flow that connects data preparation, analysis, a
 | ├── **`processed/`** | Cleaned and structured data used for reporting and dashboard creation. |
 | │ ├── `client_data_analysis.xlsm` | Main Excel workbook containing pivot tables, visual dashboards, and KPIs. |
 | │ └── `README.md` | Overview of data processing steps and applied cleaning logic. |
-
----
-
 | **`docs/`** | Supporting project documentation. |
 | ├── `Data Description.pdf` | Full data dictionary explaining variables and dataset design. |
 | └── `README.md` | Overview of included documents and their purpose. |
-
----
-
 | **`screenshots/`** | Visual outputs from the Excel analysis — providing a quick visual summary of findings. |
 | ├── `dashboard.png` | Snapshot of the PowerCo Churn Dashboard showing KPIs, churn rates, and sales insights. |
 | ├── `pivot table.png` | Summary view of churn distribution and client segmentation by tenure and region. |
 | └── `summary statistics.png` | Visual summary of key descriptive metrics and charts — sales channel distribution, churn and retention rates, and client count by origin. |
-
----
-
-| **`README.md`** | Main project file summarizing the analysis purpose, workflow, and results for recruiters or reviewers. |
+| **`README.md`** | Main project file summarizing the PowerCo Churn Analysis — detailing its purpose, workflow, and key insights. |
 
 ---
 
@@ -445,4 +436,5 @@ cd Data-Analyst-Portfolio/Diabetes_Analysis
 This analysis combines **business insight, data structure, and visual storytelling**.  
 By bridging operational data with strategic understanding, it shows how **Excel alone can drive retention strategy** and uncover the patterns behind customer behavior.  
 What began as a churn report became a practical playbook — proof that clarity, not code, creates real business impact.
+
 ---
