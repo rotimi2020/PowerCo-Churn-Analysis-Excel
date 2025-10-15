@@ -123,7 +123,7 @@ Churn across PowerCo’s SME client base stands at **9.7% (~1,419 out of 14,600)
 
 ---
 
-### 📄 Download the Original Excel File 
+### 📄 Download the Data Dictionary File 
 
 You can **download the Data Dictionary (.pdf)**  file for this project here:  
 **[Download PowerCo Churn Analysis Data Dictionary](https://github.com/rotimi2020/PowerCo-Churn-Analysis-Excel/blob/main/docs/Data%20Description.pdf)**
@@ -132,7 +132,7 @@ You can **download the Data Dictionary (.pdf)**  file for this project here:
 
 ### 📄 Download the Original Excel File 
 
-You can **download the complete Excel (.csv)**  file for this project here:  
+You can **download the Excel File (.csv)**  file for this project here:  
 **[Download PowerCo Churn Analysis Workbook](https://github.com/rotimi2020/PowerCo-Churn-Analysis-Excel/tree/main/data/raw)**
 
 ---
@@ -438,6 +438,7 @@ By bridging operational data with strategic understanding, it shows how **Excel 
 What began as a churn report became a practical playbook — proof that clarity, not code, creates real business impact.
 
 ---
+
 
 
 
