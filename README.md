@@ -151,9 +151,6 @@ Each section demonstrates practical business analytics — from data preparation
 
 ---
 
-> View [Excel Full Project (Xlsm)](https://docs.google.com/spreadsheets/d/1Ba-BHU8YsbfXJwedYLtdmyR9XpQKVoRf/edit?usp=drive_web&ouid=107391022740624738523&rtpof=true).
----
-
 ## 📊 Excel Workbook Structure  
 
 | Tab | Description |
@@ -170,7 +167,7 @@ Each section demonstrates practical business analytics — from data preparation
 ### 📄 Download the Full Excel Project  
 
 You can **download the complete Excel (.xlsm)** workbook for this project here:  
-**[Download PowerCo Churn Analysis Workbook](https://github.com/rotimi2020/Data-Analyst-Portfolio/blob/main/powerco_churn_analysis/reports/powerco_churn_analysis.xlsm)**
+**[Download PowerCo Churn Analysis Workbook](https://docs.google.com/spreadsheets/d/1Ba-BHU8YsbfXJwedYLtdmyR9XpQKVoRf/edit?usp=drive_web&ouid=107391022740624738523&rtpof=true)**
 
 
 ---
@@ -433,4 +430,5 @@ By bridging operational data with strategic understanding, it shows how **Excel 
 What began as a churn report became a practical playbook — proof that clarity, not code, creates real business impact.
 
 ---
+
 
