@@ -77,9 +77,10 @@ Simple, clear, and built to tell the story behind the numbers.
 - [💡 Lessons Learned](#-lessons-learned)  
 - [🔮 Next Steps](#-next-steps)  
 - [🧾 Project Summary](#-project-summary)  
-- [⚙️ Installation](#installation)  
-- [🙋‍♂️ Author](#author)  
+- [⚙️ Installation](#installation)
 - [✴️ Reflection](#reflection)
+- [🙋‍♂️ Author](#author)  
+
 
 
 ---
@@ -423,7 +424,7 @@ cd Data-Analyst-Portfolio/Diabetes_Analysis
 
 ---
 
-### ✴️ Reflection  
+<h2 id="reflection"> ✴️ Reflection </h2>
 This analysis combines **business insight, data structure, and visual storytelling**.  
 By bridging operational data with strategic understanding, it shows how **Excel alone can drive retention strategy** and uncover the patterns behind customer behavior.  
 What began as a churn report became a practical playbook — proof that clarity, not code, creates real business impact.
@@ -432,6 +433,7 @@ What began as a churn report became a practical playbook — proof that clarity,
 <h2 id="author"> 🙋‍♂️ Author </h2>
 
 **Rotimi Sheriff Omosewo**  
+
 📧 Email: [omoseworotimi@gmail.com](mailto:omoseworotimi@gmail.com)  
 📞 Contact: +234 903 441 1444  
 🔗 LinkedIn: [linkedin.com/in/rotimi-sheriff-omosewo-939a806b](https://www.linkedin.com/in/rotimi-sheriff-omosewo-939a806b)  
@@ -439,6 +441,7 @@ What began as a churn report became a practical playbook — proof that clarity,
 🌐 Portfolio: [rotimi2020.github.io](https://rotimi2020.github.io)  
 
 ---
+
 
 
 
