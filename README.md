@@ -417,8 +417,8 @@ To set up the project environment on your local machine, follow these steps:
 ### ✅ Step : Clone the Repository
 
 ```bash
-git clone https://github.com/rotimi2020/Data-Analyst-Portfolio.git
-cd Data-Analyst-Portfolio/Diabetes_Analysis
+git clone https://github.com/rotimi2020/PowerCo-Churn-Analysis-Excel.git
+cd PowerCo-Churn-Analysis-Excel
 
 ```
 
@@ -442,6 +442,7 @@ What began as a churn report became a practical playbook — proof that clarity,
 
 
 ---
+
 
 
 
