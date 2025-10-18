@@ -434,14 +434,15 @@ What began as a churn report became a practical playbook — proof that clarity,
 
 **Rotimi Sheriff Omosewo**  
 
+📞 Contact: +234 903 441 1444  
 🌐 Portfolio: [rotimi2020.github.io](https://rotimi2020.github.io)  
 📧 Email: [omoseworotimi@gmail.com](mailto:omoseworotimi@gmail.com)  
-📞 Contact: +234 903 441 1444  
 🔗 LinkedIn: [linkedin.com/in/rotimi-sheriff-omosewo-939a806b](https://www.linkedin.com/in/rotimi-sheriff-omosewo-939a806b)  
 📁 GitHub: [github.com/rotimi2020/Data-Analyst-Portfolio](https://github.com/rotimi2020/Data-Analyst-Portfolio)
 
 
 ---
+
 
 
 
