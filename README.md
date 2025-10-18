@@ -175,6 +175,7 @@ Each section demonstrates practical business analytics — from data preparation
 
 ### 📄 Download the Full Excel Project  
 
+> The dataset file is large and couldn’t be uploaded to GitHub, so it has been uploaded to Google Drive instead.
 You can **download the complete Excel (.xlsm)** workbook for this project here:  
 **[Download PowerCo Churn Analysis Workbook](https://docs.google.com/spreadsheets/d/1Ba-BHU8YsbfXJwedYLtdmyR9XpQKVoRf/edit?usp=drive_web&ouid=107391022740624738523&rtpof=true)**
 
@@ -442,6 +443,7 @@ What began as a churn report became a practical playbook — proof that clarity,
 
 
 ---
+
 
 
 
